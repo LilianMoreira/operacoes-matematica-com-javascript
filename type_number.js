@@ -14,6 +14,9 @@ console.log(multiplicaoMatematica)
 const divisaoMatematica= (primeiroNumero/segundoNumero);
 console.log(divisaoMatematica)
 
+const modulo= (primeiroNumero%segundoNumero);
+console.log(modulo)
+
 const meuPontoFlutuante=3.3;
 const meuPontoFlutuanteZero=.5;
 const novaOperacao= primeiroNumero/meuPontoFlutuante;
