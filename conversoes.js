@@ -11,6 +11,14 @@
  console.log(numero == numeroString)
  console.log(numero + numeroString )
  console.log(operacao)
- console.log (numero+ Number(numeroString))
- 
+
  //conversão explicita
+ console.log (numero+ Number(numeroString))
+//Number()
+ let largura = "10";
+ let altura = "5";
+ console.log(Number(largura) * Number(altura)); 
+
+ let largura = "10";
+let altura = "5";
+console.log( largura * altura);
