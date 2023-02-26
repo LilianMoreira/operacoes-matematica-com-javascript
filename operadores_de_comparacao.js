@@ -7,3 +7,9 @@ console.log (numero === texto)
 //typeof
 console.log(typeof numero)
 console.log(typeof texto)
+
+//== só compara o valor 
+//=== copara o valor e os tipos de dados 
+// conversão explicita
+Number()
+String()
